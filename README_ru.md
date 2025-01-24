@@ -7,7 +7,7 @@
 
 |Инструмент|Основное применение|Простота использования|Поддержка сложной логики|Формат ответов|Способ развертывания|Особенности|
 |---|---|---|---|---|---|---|
-|[WireMock(https://wiremock.org/)|REST и SOAP API|Средняя|Высокая|JSON, XML, другие|Java-приложение, Docker|Запись и воспроизведение запросов, интеграция с тестами|
+|[WireMock](https://wiremock.org/)|REST и SOAP API|Средняя|Высокая|JSON, XML, другие|Java-приложение, Docker|Запись и воспроизведение запросов, интеграция с тестами|
 |[MockServer](https://www.mock-server.com/)|HTTP/HTTPS заглушки|Средняя|Высокая|Любой|Java, standalone, Docker|Динамическое изменение поведения|
 |[Postman Mock Server](https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/)|Прототипы и быстрые проверки|Очень простая|Низкая|JSON|Встроенный в Postman|Легкость настройки, динамические переменные|
 |[JSON Server](https://github.com/typicode/json-server)|Простые REST API|Очень простая|Низкая|JSON|Node.js-приложение|Минимальные усилия: только JSON-файл|
@@ -54,7 +54,7 @@
 |*Инструмент*|*Размер сообщества*|*Вопросов на Stack Overflow*|*Дополнительные показатели*|
 |---|---|---|---|
 |WireMock|Крупное и активное сообщество. Более 5 миллионов загрузок в месяц. Имеются Slack-канал и GitHub-проект.|[2700+​](https://stackoverflow.com/search?q=WireMock)|Обширная документация, готовые шаблоны API, есть облачная версия для использования в командах.|
-|Spring Cloud Contract|Крупное сообщество|[757+](https://stackoverflow.com/search?q=Spring+Cloud+Contract)]|Поддерживается сообществом на GitHub и в других каналах.|
+|Spring Cloud Contract|Крупное сообщество|[757+](https://stackoverflow.com/search?q=Spring+Cloud+Contract)|Поддерживается сообществом на GitHub и в других каналах.|
 |MockServer|Менее крупное, но узконаправленное сообщество с активностью на GitHub и пользовательским форумом.|[990+​](https://stackoverflow.com/search?q=MockServer)|Mailing list для пользователей и активное обсуждение на GitHub.|
 |Postman Mock Server|Узкоспециализированное сообщество, популярное для микросервисов, активность ниже, чем у WireMock.|[220+](https://stackoverflow.com/search?q=Postman+Mock+Server)|Большое сообщество пользователей через Postman (многие используют для API тестирования).|
 |Beeceptor|Узкоспециализированное сообщество|[28+](https://stackoverflow.com/search?q=Beeceptor)| |
